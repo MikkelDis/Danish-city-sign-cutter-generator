@@ -1,8 +1,8 @@
-#Danish city sign "cutter" generator
+# Danish city sign "cutter" generator
 This project generates a 3D model based on the danish city sign, with and arbitary text value (Meant for city names). The 3D model is made as an "cutter", which
 can be 3D printed and used for various creative tasks.
 
-##Installation
+## Installation
 You need to have Node js installed, and also npm (it typically comes with the node installation, you can easily verify this in the terminal).
 Copy the repository down, and in the termninal run
 ```bash
